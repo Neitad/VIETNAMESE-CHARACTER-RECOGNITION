@@ -1,13 +1,4 @@
-Họ và Tên: Kiên Tiến Đạt
-
-Khoá: 2018
-
-Ngành: Khoa Học Dữ Liệu
-
-Sở thích: Du lịch, chơi game
-
-Định hướng nghề nghiệp: Data engineer, Data analysis
-
-Chia sẻ, kết nối: fb.com/neitad.k
-
-#CS114.M11
+| Thành viên | Tên           | MSSV | 
+| Nhóm trưởng| Đỗ Hải        |19521460|
+| Tv2        | Kiên Tiến Đạt |18520568| 
+| Tv3        | Hồ Trương Kha |19521654| 
